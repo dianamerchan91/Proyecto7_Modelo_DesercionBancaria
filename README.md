@@ -1,4 +1,4 @@
-# Modelo Deserción Bancaria
+# Modelo de análisis predictivo para determinar clientes con tendencia a la deserción en Beta Ban
 
 ## Introducción
 
